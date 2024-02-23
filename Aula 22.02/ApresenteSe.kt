@@ -12,3 +12,7 @@ fun main() {
 
 
 }
+
+
+// site em python:
+// https://youtu.be/AP4iDEFYplo?si=q6BwyRhpeoYTAAVH
