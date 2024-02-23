@@ -7,7 +7,7 @@ fun main() {
     var altura = 1.83
     var inicial = 'K'
 
-    // Imprimir as interações com interpolação de strings
+    // Imprimir as interações com interpolação de stringss
     println("A inicial do meu nome e: ${inicial}, tenho ${altura} de altura e ${idade} de idade.")
 
 
