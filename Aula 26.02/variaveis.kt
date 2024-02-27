@@ -43,14 +43,30 @@
 
 // Multabilidde e Imutabilidade no contexto de var e val
 
-fun main() {
+// fun main() {
 
-    val imutavel: Int = 5 // imutavel
-    var mutavel: Int = 10 // mutable
+//     val imutavel: Int = 5 // imutavel
+//     var mutavel: Int = 10 // mutable
 
-    mutavel = 15 // ok
-    imutavel = 20 // Erro! Não pode atribuir um valor a uma variavel declarada como imutavel
+//     mutavel = 15 // ok
+//     imutavel = 20 // Erro! Não pode atribuir um valor a uma variavel declarada como imutavel
 
-    println("Antes da alteração o valor é $imutavel")
-    println("Depois da alteração o valor é $mutavel")
-}
+//     println("Antes da alteração o valor é $imutavel")
+//     println("Depois da alteração o valor é $mutavel")
+// }
+
+
+// Convenções de nomeclatura
+
+// fun main () {
+//     val nomeCompleto: String = "Kaue Santana"
+//     val idadeDoUsuario: Int = 20
+//     val valorTotal: Double = 50.0
+//     val inicialNome: Char = 'V'
+
+//     println("Nome Completo: $nomeCompleto")
+//     println("Idade do Usuário: $idadeDoUsuario")
+//     println("valorTotal : $valorTotal")
+//     println("inicialNome: $inicialNome")
+// }
+
